@@ -8,7 +8,7 @@ var enemyHealth = 50;
 var enemyAttack = 12;
 
 // function to start a new game
-var //startGame = function() {
+var startGame = function() {
   // reset player stats
   playerHealth = 100;
   playerAttack = 10;
